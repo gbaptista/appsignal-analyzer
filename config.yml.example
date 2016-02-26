@@ -1,0 +1,13 @@
+# http://docs.appsignal.com/api/overview.html
+
+app-signal:
+  api-url: https://appsignal.com/api
+  token: XX01-X
+
+sites:
+  my-site-prod:
+    id: '00xx00xx'
+
+mecached:
+  host: localhost:11211
+  namespace: appsignal_analyzer

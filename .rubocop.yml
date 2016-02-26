@@ -1,0 +1,5 @@
+Documentation:
+  Enabled: false
+
+Lint/Debugger:
+  Enabled: false
