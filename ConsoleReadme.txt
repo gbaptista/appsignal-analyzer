@@ -20,7 +20,7 @@
       sample_errors
       sample_errors(exception: 'Example: NoMethodError')
 
-    List Erros Messages Count:
+    List Errors Messages Count:
 
       error_messages(sample_errors['log_entries'])
 
