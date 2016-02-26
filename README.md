@@ -12,7 +12,7 @@
   
   
 
-How To Use
+### How To Use
 
 ```
 gem install bundler
