@@ -1,4 +1,4 @@
-source 'https://geminabox.locaweb.com.br'
+source 'https://rubygems.org'
 
 gem 'rest-client'
 gem 'pry-byebug'
